@@ -1,5 +1,12 @@
+body {
+  background-color: #36314C;
+}
+
 .main-header{
-  top: 20%;
-  
   text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
 }
